@@ -1,11 +1,11 @@
-Introductory Material
-===
+# Introductory Material
 
-Infrastructure
-===
 
-Working with Texts
-===
+# Infrastructure
+
+
+# Working with Texts
+
 
 
 <ul>
@@ -68,6 +68,19 @@ Working with Texts
 
 
 # Mapping
+
+## Authoring
+
+## Controlled Vocabularies / Authority Lists
+[Peripleo–Pelagios](https://peripleo.pelagios.org/ui#q=tripolitania%20late%20roman%20province&selected=http%3A%2F%2Fgazetteer.dainst.org%2Fplace%2F2338512&basemap=AWMC)
+
+[Sample Entry-DAI](https://gazetteer.dainst.org/app/#!/show/2338512)
+
+## Case Study: Livy
+
+1. Create username/password on [Recogito](https://recogito.pelagios.org/)
+2. 
+
 
 
 
