@@ -1,12 +1,14 @@
 # Introductory Material
 
+## Interdisciplinary
+## Experimental
+## Inclusive
 
 # Infrastructure
 
+## There is no "They"
 
 # Working with Texts
-
-
 
 <ul>
 <li><a href="https://voyant-tools.org/">Voyant</a></li>
@@ -33,9 +35,9 @@
 
 ### Case Study: Livy
 
-[Livy Trans. Roberts 1905](https://voyant-tools.org/?corpus=6e014da933f6434fecddf253ce23a5d5)
+[Livy Trans. Roberts 1905 in Voyant](https://voyant-tools.org/?corpus=6e014da933f6434fecddf253ce23a5d5)
 
-[Livy CLTK](https://voyant-tools.org/?corpus=d9c9de31198902dbee1393bf77de81b1)
+[Livy CLTK in Voyant](https://voyant-tools.org/?corpus=d9c9de31198902dbee1393bf77de81b1)
 
 ## Structured Text
 
@@ -71,15 +73,43 @@
 
 ## Authoring
 
+[Google My Maps (Livy)](https://drive.google.com/open?id=12e5fgrwg4ym0N5sKku6XEp3f3LM&usp=sharing)
+
 ## Controlled Vocabularies / Authority Lists
+
 [Peripleo–Pelagios](https://peripleo.pelagios.org/ui#q=tripolitania%20late%20roman%20province&selected=http%3A%2F%2Fgazetteer.dainst.org%2Fplace%2F2338512&basemap=AWMC)
 
 [Sample Entry-DAI](https://gazetteer.dainst.org/app/#!/show/2338512)
 
-## Case Study: Livy
+## Case Study: Places in Livy
 
 1. Create username/password on [Recogito](https://recogito.pelagios.org/)
-2. 
+2. Download [Livy 1](https://ucla.box.com/s/1x4pgfkqv6odd8cez9aw6o2nv84mn9qm)
+3. Upload Livy to to Recogito
+3. Annotate Places
+
+# Interoperability
+
+## 3D Mapping
+
+[Building in 3D](https://www.sketchup.com/products/sketchup-for-web)
+[Diachronic Roman Forum](https://ucla.box.com/shared/static/9sl6uosa0r69fq0029usgkfjhfgaoq7e.kmz)
+[Rome Reborn](https://ucla.box.com/shared/static/qkjfiiljal6183tn2qqxrt6udgxzn8p2.kmz)
+
+## 3D
+
+[2D to 3D: Procedural Modeling and GIS](https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=097158ef9d9643eb82e5b7c7eb72a14e)
+
+[RomeLab - Projects](http://hvwc.etc.ucla.edu/projects)
+
+# Putting it all together
+
+[Digital Prosopography of the Roman Republic (DPRR)](http://romanrepublic.ac.uk/)
+[Roman Funerals and Roman Families](https://dh-199-the-shape-of-roman-history.github.io/)
+
+[RomeLab - Ancestors on Rostra](http://hvwc.etc.ucla.edu/funerals-rostra)
+[RomeLab - Funerals of the Roman Republic](http://hvwc.etc.ucla.edu/funeral-visualizations-version-2)
+
 
 
 
