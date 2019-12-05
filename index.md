@@ -60,11 +60,7 @@
 <ul>
 <li><a href="https://peripleo.pelagios.org/ui#selected=http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F991354">Roman Tripolitania</a></li>
 <li><a href="http://inslib.kcl.ac.uk/irt2009/IRT239.html#epidoc">TEI Via Epidoc in the wild: Study the IRT</a></li>
-<li>Hands-on TEI via Epidoc: Download zip ﬁle epidoc245.zip</li>
-<li><a href="http://fiddle.frameless.io/">TEI Via Epidoc: ﬁddle</a></li>
 </ul>
-
-
 
 # Mapping
 
