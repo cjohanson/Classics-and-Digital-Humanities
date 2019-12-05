@@ -88,23 +88,23 @@
 
 ## 3D Mapping
 
-[Building in 3D](https://www.sketchup.com/products/sketchup-for-web)
-[Diachronic Roman Forum](https://ucla.box.com/shared/static/9sl6uosa0r69fq0029usgkfjhfgaoq7e.kmz)
-[Rome Reborn](https://ucla.box.com/shared/static/qkjfiiljal6183tn2qqxrt6udgxzn8p2.kmz)
+* [Building in 3D](https://www.sketchup.com/products/sketchup-for-web)
+* [Diachronic Roman Forum](https://ucla.box.com/shared/static/9sl6uosa0r69fq0029usgkfjhfgaoq7e.kmz)
+* [Rome Reborn](https://ucla.box.com/shared/static/qkjfiiljal6183tn2qqxrt6udgxzn8p2.kmz)
 
 ## 3D
 
-[2D to 3D: Procedural Modeling and GIS](https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=097158ef9d9643eb82e5b7c7eb72a14e)
+* [2D to 3D: Procedural Modeling and GIS](https://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=097158ef9d9643eb82e5b7c7eb72a14e)
 
-[RomeLab - Projects](http://hvwc.etc.ucla.edu/projects)
+* [RomeLab - Projects](http://hvwc.etc.ucla.edu/projects)
 
 # Putting it all together
 
-[Digital Prosopography of the Roman Republic (DPRR)](http://romanrepublic.ac.uk/)
-[Roman Funerals and Roman Families](https://dh-199-the-shape-of-roman-history.github.io/)
+* [Digital Prosopography of the Roman Republic (DPRR)](http://romanrepublic.ac.uk/)
+* [Roman Funerals and Roman Families](https://dh-199-the-shape-of-roman-history.github.io/)
 
-[RomeLab - Ancestors on Rostra](http://hvwc.etc.ucla.edu/funerals-rostra)
-[RomeLab - Funerals of the Roman Republic](http://hvwc.etc.ucla.edu/funeral-visualizations-version-2)
+* [RomeLab - Ancestors on Rostra](http://hvwc.etc.ucla.edu/funerals-rostra)
+* [RomeLab - Funerals of the Roman Republic](http://hvwc.etc.ucla.edu/funeral-visualizations-version-2)
 
 
 
