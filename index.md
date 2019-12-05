@@ -1,12 +1,10 @@
 # Introductory Material
 
-## Interdisciplinary
-## Experimental
-## Inclusive
-
-# Infrastructure
-
-## There is no "They"
+* Interdisciplinary
+* Experimental
+* Inclusive
+* Infrastructure
+* There is no "They"
 
 # Working with Texts
 
@@ -25,13 +23,12 @@
 
 [Billboard Top 100–Voyant](https://voyant-tools.org/?corpus=c4f2af29137822e633da6bca64b6d7a3)
 
-<p>Using either an English language or Latin language data set, read all of Livy’s history at a distance and be prepared to report to the class.</p>
+
 <ul>
 <li>Latin <a href="https://github.com/cltk/latin_text_latin_library/tree/master/livy">Dataset</a></li>
 <li>English Translation <a href="http://mcadams.posc.mu.edu/txt/ah/Livy/">Dataset</a></li>
 </ul>
-<p>For those using the English language translation, I recommend ﬁrst using a browser to “save as” .txt, and then uploading to a github repository before processing your “raw” ﬁles in Voyant as links to your github repo.</p>
-<p>NB, repositories in Voyant persist for a limited time. In general the URL for your new Voyant project is semi-permanent and will let you return to your work repeatedly without the need to “upload” or “link” your documents every time you want to “read” them.</p>
+
 
 ### Case Study: Livy
 
