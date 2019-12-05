@@ -38,16 +38,15 @@
 
 ## Structured Text
 
-### Tutorial: Text encoding
 
-## Text encoding Pt. I
+#### Text encoding Pt. I
 
 <ul>
 <li><a href="https://jsfiddle.net/cjohanson/j84dk1cz/3/">Hands-on HTML: blank canvas</a></li>
 <li><a href="http://www.simplehtmlguide.com/cheatsheet.php">HTML Quick Reference</a></li>
 </ul>
 
-## Text encoding Pt. II
+#### Text encoding Pt. II
 <ul>
 <li><a href="https://www.w3schools.com/xml/xml_xslt.asp">Hands-on XML</a></li>
 <li><a href="http://fiddle.frameless.io/">Hands-on XML: blank canvas</a></li>
@@ -55,7 +54,7 @@
 
 ### Case Study: Roman Tripolitania (Epidoc)
 
-## Text encoding Pt. III
+#### Text encoding Pt. III
 
 <ul>
 <li><a href="https://peripleo.pelagios.org/ui#selected=http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F991354">Roman Tripolitania</a></li>
