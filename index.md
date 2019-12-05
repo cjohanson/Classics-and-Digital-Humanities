@@ -9,7 +9,6 @@
 # Working with Texts
 
 <ul>
-<li><a href="https://voyant-tools.org/">Voyant</a></li>
 <li><a href="http://tesserae.caset.buffalo.edu/">Tesserae</a></li>
 <li><a href="http://cltk.org/">CLTK</a></li>
 </ul>
